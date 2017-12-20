@@ -1,0 +1,1 @@
+# chrome_img_properties_extension
